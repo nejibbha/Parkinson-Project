@@ -1,1 +1,1 @@
-experiments/vit-base-130-epochs-early-stopping-base filter=lfs diff=lfs merge=lfs -text
+experiments/vit-base/vit-base-130-epochs-early-stopping-base.h5 filter=lfs diff=lfs merge=lfs -text
