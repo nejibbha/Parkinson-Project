@@ -1,1 +1,10 @@
 experiments/vit-base/vit-base-130-epochs-early-stopping-base.h5 filter=lfs diff=lfs merge=lfs -text
+experiments/cnn-5-layer/cnn-5-layer-130-epochs-early-stopping-with-regularization-5-layer filter=lfs diff=lfs merge=lfs -text
+keyframe/cnn-6-layer/cnn-6-layer-130-epochs-early-stopping-with-regularization-keyframes-6-layer.h5 filter=lfs diff=lfs merge=lfs -text
+keyframe/vit-base/vit-base-130-epochs-early-stopping-keyframes-base.h5 filter=lfs diff=lfs merge=lfs -text
+keyframe/resnet-18/resnet-18-130-epochs-early-stopping-keyframes-resnet18.h5 filter=lfs diff=lfs merge=lfs -text
+experiments/cnn-6-layer/cnn-6-layer-130-epochs-early-stopping-with-regularization-6-layer filter=lfs diff=lfs merge=lfs -text
+keyframe/cnn-5-layer/cnn-5-layer-130-epochs-early-stopping-with-regularization-keyframes-5-layer.h5 filter=lfs diff=lfs merge=lfs -text
+keyframe/vit-small/vit-small-130-epochs-early-stopping-keyframes-small.h5 filter=lfs diff=lfs merge=lfs -text
+keyframe/vit-tiny/vit-tiny-130-epochs-early-stopping-keyframes-tiny.h5 filter=lfs diff=lfs merge=lfs -text
+keyframe/resnet-34/resnet-34-130-epochs-early-stopping-keyframes-resnet34.h5 filter=lfs diff=lfs merge=lfs -text
