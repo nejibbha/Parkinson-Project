@@ -1,1 +1,2 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
+notebooks/resnet-18-130-epochs-early-stopping-with-regularization-class-balanced-resnet-18.h5 filter=lfs diff=lfs merge=lfs -text
